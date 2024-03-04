@@ -1,4 +1,4 @@
 
 ![Tabuada](./images/tabuada.png)
 
-Faça o teste -  [site oficial](https://tabuada-navy.vercel.app/).
+Faça o teste -  [Tabuada](https://tabuada-navy.vercel.app/)
