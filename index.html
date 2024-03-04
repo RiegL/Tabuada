@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Tabuada DNC</title>
+  </head>
+  <body>
+    <header>
+      <h1>Taboada</h1>
+    </header>
+    <section >
+      <div>
+        <p>
+          Qual taboada você deseja saber a taboada?<br>
+          <input class="form" type="number" id="num" >
+        </p>
+        <p>
+          Até que número você quer?<br>
+          <input class="form" type="number" id="end">
+        </p>
+        <p>
+          <input type="button" value="calcular" id="button" onclick="mult()" >
+          <input type="button" value="limpar" id="button" onclick="clean()"> 
+        </p>
+
+      </div>  
+      <div id="resposta">
+        Prencha os valores acima !!
+      </div>
+    <script src="index.js"></script>
+    </section>
+  </body>
+</html>
