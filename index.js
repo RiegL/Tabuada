@@ -36,7 +36,7 @@ function mult() {
     var x = 0;
     var r = "";
     var res = window.document.getElementById("resposta");
-    res.innerHTML = `A taboada do ${n} é: <br>`;
+    res.innerHTML = `A tabuada do ${n} é: <br>`;
     do {
       r = n * x;
       res.innerHTML += `${x} X ${n} = ${r} <br>`;
