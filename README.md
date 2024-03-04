@@ -1,2 +1,2 @@
--- Tabuada
-(./images/tabuada.png)
+
+![Tabuada](./images/tabuada.png)
